@@ -1,0 +1,14 @@
+{
+  "name": "wwpkg-web-sample",
+  "version": "1.0.0",
+  "description": "WWPkg Web Sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tony.yan@travelflan.com",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
