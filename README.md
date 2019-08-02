@@ -22,3 +22,10 @@ add this script in the end of your website page.
   })
 </script>
 ```
+
+if you want to open the chatbot manually, you can put following code inside your function.
+```bash
+<script>
+  window.TF_CHATBOT.open()
+</script>
+```
